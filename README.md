@@ -10,7 +10,7 @@ We will be using the Data cleaning with Pandas-workbook to start with - a comple
 
 ## Class 2
 
-In the later class we're going to be reading in our new clean data file and looking at different ways of interrogating our data
+In the later class we're going to be reading in our new clean data file, interrogating our data and visualising our results
 
 ## Contact me
 
